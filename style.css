@@ -1,0 +1,33 @@
+body {
+
+background: #005f63;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: blue;
+}
+
+img  {
+   display:   block ;
+   height:500px; 
+   width :auto;
+}
+
+
+
+#title {
+  background :green;
+   width: 800px;}
+
+#main {
+	background: silver
+	width:500px;
+}
+
+
+#main p {
+color:red;
+}
+
+
